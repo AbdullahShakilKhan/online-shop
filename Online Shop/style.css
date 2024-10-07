@@ -1,0 +1,89 @@
+*{
+    font-family: Arial, sans-serif;
+    
+}
+
+.head{
+   
+    align-content: center;
+    background-color: #2c3e50;
+    text-align: center;
+}
+
+
+img{
+    height: 120px;
+    padding-top: 20px;
+   
+}
+
+
+
+h1{
+ 
+    text-decoration: underline;
+    color: white;
+}
+
+nav{
+    text-transform: uppercase;
+    
+    height: 40px;
+    align-content: center;
+    
+    background-color: rgb(98, 0, 255);
+  
+
+}
+
+
+
+nav a{
+    text-decoration: none;
+    margin: 80px;
+    color: aliceblue;
+    font-weight: bold;
+  
+    
+
+}
+
+
+
+.menuhead{
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    text-transform: uppercase;
+  background-color:  rgba(67, 255, 67, 0.774);
+ color: rgb(98, 0, 255);
+}
+
+
+th{
+text-align: center;
+
+border-color: aliceblue;
+background-color: rgb(98, 0, 255);
+}
+
+th a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.about, .contact{
+    text-align: center;
+ 
+}
+
+
+
+footer{
+    text-align: center;
+    color: white;
+    height: 50px;
+    align-content: center;
+    background-color: #2c3e50;
+
+}
